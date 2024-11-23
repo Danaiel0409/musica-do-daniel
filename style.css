@@ -1,14 +1,26 @@
 .chamada{
-    background-color: rgb(104, 4, 104);
+    background-color: rgb(16, 189, 108);
     display: flex;
     padding-top: 80px;
     padding-bottom: 80px;
     justify-content: center;
 }
 body{
-    background-color: black;
+    background-color: rgb(20, 19, 19);
     margin: 0px;
     font-family: "Roboto", sans-serif;
-    color: darkblue;
+    color: rgb(31, 221, 235);
     margin-bottom: 100px;
+}
+header{
+    font-size: 35px;
+    color: white;
+    border-bottom: 4px solid white;
+    padding: 25px;
+}
+h1{
+    font-size: 45px;
+}
+.chamada-texto{
+    margin-right: 6%;
 }
